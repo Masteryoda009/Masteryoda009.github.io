@@ -4,9 +4,12 @@
     text-align: center;
   }
 .signinm {
-    align-items: center ;
+    text-align: center;
 }
 
 .signin {
-    align-items: center;
+  width: 500px;
+  height: 350px;
+  margin: 50px;
+  outline: solid 1px black;
 }
